@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "ngcategorizer"
+		}
+	],
+    "settings": {
+        // The number of spaces a tab is considered equal to
+        "tab_size": 4,
+
+        // Columns in which to display vertical rulers
+        "rulers": [80],
+
+        // Set to true to insert spaces when tab is pressed
+        "translate_tabs_to_spaces": true,
+    }
+}
