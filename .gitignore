@@ -1,3 +1,7 @@
 *.pyc
+__pycache__
 *.sublime-workspace
 Sujet/20_newsgroups
+Resources/20-newsgroups-master
+Resources/classify-text-master
+Tests/*.p

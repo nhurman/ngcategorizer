@@ -1,0 +1,18 @@
+Dependencies
+------------
+1. Make sure you have python3 installed
+2. Install the nltk package for python3
+3. Install nltk data (packages required are punkt and stopwords)
+
+Instructions for Debian / Ubuntu :
+$ sudo su -
+# apt-get install python3 python3-setuptools
+# easy_install3 pip
+# pip3 install nltk
+# python3 -m nltk.downloader -d /usr/share/nltk_data punkt stopwords
+
+Testing the program
+-------------------
+1. Make sure you have all the dependencies installed
+2. Extract the archive in Sujet/20_newgroups.tar.gz into Sujet/
+3. Launch ./ng-test.py from the project folder
