@@ -7,6 +7,7 @@ from ngcategorizer.PerformanceEvaluator import PerformanceEvaluator
 
 """ Choose between NGCategorizer and NGCategorizerStemmer here to use stemmer or not """
 ng = NGCategorizerStemmer('Sujet/20_newsgroups')
+#ng = NGCategorizer('Sujet/20_newsgroups')
 save_path = "Tests/wfreqs-training.p"
 groups = ng.exploreDirectory()
 training, testing = ng.splitSet(groups)

@@ -1,0 +1,47 @@
+-- Testing group comp.os.ms-windows.misc
+Success ratio: 79% (241/306)
+-- Testing group rec.sport.baseball
+Success ratio: 70% (234/335)
+-- Testing group misc.forsale
+Success ratio: 69% (223/324)
+-- Testing group talk.politics.guns
+Success ratio: 52% (172/328)
+-- Testing group sci.crypt
+Success ratio: 69% (218/316)
+-- Testing group talk.politics.mideast
+Success ratio: 55% (190/348)
+-- Testing group talk.politics.misc
+Success ratio: 32% (106/329)
+-- Testing group comp.sys.mac.hardware
+Success ratio: 61% (212/347)
+-- Testing group comp.sys.ibm.pc.hardware
+Success ratio: 52% (183/354)
+-- Testing group rec.sport.hockey
+Success ratio: 84% (279/334)
+-- Testing group sci.med
+Success ratio: 34% (115/338)
+-- Testing group rec.motorcycles
+Success ratio: 62% (204/329)
+-- Testing group soc.religion.christian
+Success ratio: 67% (223/334)
+-- Testing group talk.religion.misc
+Success ratio: 14% (47/326)
+-- Testing group sci.electronics
+Success ratio: 37% (123/333)
+-- Testing group rec.autos
+Success ratio: 66% (219/330)
+-- Testing group comp.windows.x
+Success ratio: 35% (125/361)
+-- Testing group sci.space
+Success ratio: 45% (146/327)
+-- Testing group alt.atheism
+Success ratio: 75% (244/324)
+-- Testing group comp.graphics
+Success ratio: 65% (224/342)
+
+== OVERALL STATS
+Success ratio: 55.93% (3728/6665)
+
+real	1m28.184s
+user	1m27.816s
+sys	0m0.324s
